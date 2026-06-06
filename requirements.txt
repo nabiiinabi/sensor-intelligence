@@ -3,3 +3,9 @@ uvicorn
 pydantic
 pytest
 httpx
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+jupyter
