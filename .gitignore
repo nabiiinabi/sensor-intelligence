@@ -20,4 +20,4 @@ logs/
 # OS/editor
 .DS_Store
 .vscode/
-.cursor/index/
+.cursor/
